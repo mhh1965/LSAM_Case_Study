@@ -1,0 +1,12 @@
+In /POC/S3M/20150917/tmp/projects/D/formatted_comp.unx is a list of duplicated files.
+Number of duplicated files is 166 out of 11377
+
+You may save 761400392604 bytes (out of 31269960900346) if you remove duplicate files.
+
+Take proper actions to minimize the number of duplicate files; e.g.,
+keep only one base copy. Delete all others; then, create a symbolic
+link from all other locations to the base copy. Best of luck!
+
+Clean up the project directory (/POC/S3M/20150917/tmp/projects/D) whenever you do not need it.
+
+50 workers
